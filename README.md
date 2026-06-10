@@ -2,24 +2,24 @@
 
 **Full-Stack Developer. I build complete products with AI and ship them to real users.**
 
-Six are live in production. I work front to back: React and Next.js on the front, Postgres and Supabase on the back, the Claude API where it earns its place, and the payments, contracts, emails, and automations that make a product real.
+Four are live in production. I work front to back: React and Next.js on the front, Postgres and Supabase on the back, LLM pipelines where they earn their place, and the payments, contracts, emails, and automations that make a product real.
 
 ### Live work
 
 **The Bridal Content Co.** → [bridalcontent.co](https://bridalcontent.co)
 One build runs a wedding-content business end to end: marketing site, custom CRM, e-signed contracts, Stripe deposits and balances, automated branded client emails, and a web-push alert the moment a lead comes in. In daily client use.
 
-**ProfitPilot** → [profitpilot-ai.app](https://profitpilot-ai.app)
+**ProfitPilot** (in development) → [profitpilot-ai.app](https://profitpilot-ai.app)
 Shopify-embedded Remix app. Per-order profit across eight expense dimensions, six ad platforms synced, Claude-written suggestions with a dollar impact attached to each.
 
 **AI Website Audit Tool** → [site-audit-eosin.vercel.app](https://site-audit-eosin.vercel.app)
-Next.js and Claude API. An eight-dimension site audit in about 20 seconds, scored against PageSpeed, no signup.
+Next.js with rule-based scoring and LLM-written fixes. An eight-dimension site audit in about 20 seconds, scored against PageSpeed, no signup.
 
 **Telegram Support Agent**
-Knowledge-base grounded, confidence-based escalation, daily digest, PM2-managed.
+Knowledge-base grounded, hands off to a human the moment its own answer signals uncertainty, daily digest, PM2-managed.
 
 **Lead Pipeline**
-Scraping plus Claude scoring. 500+ business records per run, deduplicated and scored with reasoning.
+Scraping plus Claude scoring. Up to 500 business records per run, deduplicated and scored with reasoning.
 
 ### Stack
 
